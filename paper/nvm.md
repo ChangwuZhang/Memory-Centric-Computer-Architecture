@@ -8,7 +8,7 @@
 ### PCM
 - (2010 IEEE) Phase Change Memory    
 - (2010 ISSCC) A 45nm 1Gb 1.8V Phase-Change Memory
-- 222(2011 Nature) Interfacial phase-change memory      
+- (2011 Nature) Interfacial phase-change memory      
 - (2012 Science) Breaking the speed limits of phase-change memory 
 - (2014) Phase change materials and phase change memory   
 - (2016 IEEE) Recent progress in phase-change memory technology         
