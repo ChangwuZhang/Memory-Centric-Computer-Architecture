@@ -19,7 +19,24 @@
     + [RRAM](./paper/nvm.md)
 
 ## Near-Memory Processing
-- [Near-DRAM](./paper/nmp.md)
+- [2D NMP](./paper/nmp.md)
+    + [DRAM-based 2D NMP](./paper/nmp.md)
+    + [SSD-based NDP](./paper/nmp.md)
+- [2.5D NMP](./paper/nmp.md)
+    + [HBM-based NMP](./paper/nmp.md)
+- [3D NMP](./paper/nmp.md)
+    + [SRAM-based 3D NMP](./paper/nmp.md)
+    + [DRAM -based 3D NMP](./paper/nmp.md)
+    + [ENVM-based 3D NMP](./paper/nmp.md)
 
 ## In-Memory Processing
-- [In-DRAM](./paper/imp.md)
+- [In-SRAM processing](./paper/imp.md)
+    + [In-SRAM accelerator](./paper/imp.md)
+    + [In-cache computing](./paper/imp.md)
+- [In-DRAM processing](./paper/imp.md)
+    + [In-DRAM data movement](./paper/imp.md)
+    + [Simple bulk bitwise operations](./paper/imp.md)
+    + [Complex arithmetic operations](./paper/imp.md)
+- [In-NVM processing](./paper/imp.md)
+    + [In-Flash processing](./paper/imp.md)
+    + [In-ENVM processing](./paper/imp.md)
